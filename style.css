@@ -1,0 +1,33 @@
+body {
+     
+    background: #faf8f8; 
+    margin-top:80px; 
+    margin-bottom:80px;   
+  } 
+ 
+ .title{ 
+    text-align: center; 
+ } 
+  h2 {  
+    color:darkslategray; 
+    text-align: center 
+  } 
+   
+  figure { 
+    text-align: center 
+  } 
+   
+  div { 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 50em; 
+ 
+  } 
+   
+  .info{ 
+    font-size: 25px; 
+  } 
+   
+  p { 
+    font-family: 'Varela Round', sans-serif; 
+  }
